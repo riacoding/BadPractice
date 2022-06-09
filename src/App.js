@@ -16,7 +16,7 @@ function App() {
           Learn React
         </a>
       </header>
-      <footer>{new Date().getFullYear()}</footer>
+      <footer>copyright {new Date().getFullYear()}</footer>
     </div>
   );
 }
