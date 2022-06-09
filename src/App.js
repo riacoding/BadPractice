@@ -3,7 +3,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App">
+    <main className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h3>Welcome to the site</h3>
@@ -19,7 +19,7 @@ function App() {
       </header>
       <p>marketing message</p>
       <footer>copyright {new Date().getFullYear()}</footer>
-    </div>
+    </main>
   );
 }
 
