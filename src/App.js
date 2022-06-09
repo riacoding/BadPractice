@@ -16,6 +16,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <p>marketing message</p>
       <footer>copyright {new Date().getFullYear()}</footer>
     </div>
   );
