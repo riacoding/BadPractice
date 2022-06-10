@@ -18,6 +18,7 @@ function App() {
         </a>
       </header>
       <p>marketing message</p>
+      <p>address</p>
       <footer>copyright {new Date().getFullYear()}</footer>
     </main>
   );
